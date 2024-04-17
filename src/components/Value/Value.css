@@ -52,6 +52,6 @@
   
   @media (max-width: 768px) {
       .accordionButton .primaryText{
-          font-size: .8rem;
+          font-size: 0.8rem;
       }
   }
